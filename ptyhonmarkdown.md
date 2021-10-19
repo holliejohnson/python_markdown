@@ -1,8 +1,3 @@
----
-title: markdown in python
-output: html
----
-
 # Easy markdown in python scripts 🐍
 
 
